@@ -25,4 +25,4 @@ This project analyzes how much of Munich’s population is served within a very 
 - Munich Open Data
 
 ## Author
-Your Name
+Rooseler Gyimah
