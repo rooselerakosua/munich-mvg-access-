@@ -18,7 +18,7 @@ This project analyzes how much of Munich’s population is served within a very 
 6. Visualized results using graduated choropleth mapping
 
 ## Output
-![Population served within 150 m](outputs/map_population_served_150m_munich.png)
+![Population served within 150 m](https://github.com/rooselerakosua/munich-mvg-access-/blob/main/map_population_served_munich.png)
 
 ## Tools
 - QGIS
